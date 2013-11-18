@@ -1,7 +1,7 @@
 RMISimpleBankSystem
 
 
-To run Java RMI server/client on ubuntu/linux, run the following on terminal:
+To run Java RMI server/client on ubuntu, run the following commands on terminal:
 
 cd '/directory' 
 
